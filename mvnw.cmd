@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> a923595 (Finalize mvnw.cmd after remote sync)
 <# : batch portion
 @REM ----------------------------------------------------------------------------
 @REM Licensed to the Apache Software Foundation (ASF) under one
@@ -147,7 +152,11 @@ try {
 }
 
 Write-Output "MVN_CMD=$MAVEN_HOME/bin/$MVN_CMD"
+<<<<<<< HEAD
 
+=======
+=======
+>>>>>>> a923595 (Finalize mvnw.cmd after remote sync)
 <# : batch portion
 @REM ----------------------------------------------------------------------------
 @REM Licensed to the Apache Software Foundation (ASF) under one
@@ -297,7 +306,12 @@ try {
 }
 
 Write-Output "MVN_CMD=$MAVEN_HOME/bin/$MVN_CMD"
+<<<<<<< HEAD
 
+=======
+>>>>>>> 3c745ad (Add files via upload)
+=======
+>>>>>>> a923595 (Finalize mvnw.cmd after remote sync)
 <# : batch portion
 @REM ----------------------------------------------------------------------------
 @REM Licensed to the Apache Software Foundation (ASF) under one
@@ -447,4 +461,8 @@ try {
 }
 
 Write-Output "MVN_CMD=$MAVEN_HOME/bin/$MVN_CMD"
+<<<<<<< HEAD
 
+=======
+>>>>>>> 3c745ad42a775cd3b720a0a5def2d8adf06f0eb7
+>>>>>>> a923595 (Finalize mvnw.cmd after remote sync)
